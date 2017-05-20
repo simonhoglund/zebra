@@ -1,3 +1,3 @@
 # zebra 
-test
-test2
+# test
+# EY DET MÅSTE VARA  '#'
